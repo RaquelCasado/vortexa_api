@@ -8,7 +8,7 @@ In order to run this project follow the steps bellow:
 > npm install
 ```
 ```
-> npm start
+> npm run start
 ```
 ```
 > try out the api with  http://localhost:3001/

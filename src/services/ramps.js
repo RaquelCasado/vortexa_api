@@ -4,7 +4,6 @@ const data = JSON.parse(fs.readFileSync('./api/boat_ramps.json', 'utf8'));
 const rampsData = data.features;
 
 function getRamps() {
-    console.log(rampsData);
     return rampsData;
 }
 
